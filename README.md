@@ -1,0 +1,1 @@
+# education-wage-trends-usa-1973-2022
