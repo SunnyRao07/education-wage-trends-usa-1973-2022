@@ -1,3 +1,6 @@
+![Education Wage Trends Banner](https://github.com/SunnyRao07/education-wage-trends-usa-1973-2022/blob/main/banner.png)
+
+
 # 🎓 Education Wage Trends in the USA (1973–2022)
 
 ## 📌 Project Overview  
